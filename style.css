@@ -1,0 +1,163 @@
+#color
+{
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+    
+}
+#bottom
+{
+background-position: right;
+    border-width: 25px;
+    background-color: #ffff;
+    color: black;
+    margin-left: 900px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+    padding-top: 25px;
+    font-size: 20px;
+}
+.para1
+{
+    
+
+    font-size:15px;
+    margin-top:5px;
+}
+body
+{
+    background-color:#ffff;
+
+}
+.container
+{
+    background-color: rgb(218, 14, 14);
+    height: 20px;
+    width:94%;
+    margin-top: 30px;
+    
+}
+.container1
+{
+    background-color: rgb(232, 227, 236);
+    height: 50px;
+    width: 94%;
+    margin: 0;
+}
+.container1 ul{
+    float:left;
+    margin-top: 15px;
+}
+.container1 ul li{
+    display: inline;
+    margin-right:5px;
+}
+.container1 ul li a
+{
+    
+    color:rgb(26, 25, 24);
+    text-decoration: none;
+    font-size: 20px;
+    margin-right:50px;
+}
+.container1 ul li img
+{
+    width: 1%;
+}
+a:hover{
+    background-color: rgb(218, 14, 14);
+    width: 30px;
+}
+#ty{
+    text-align: right;
+    margin-left:250px;
+}
+#banner img
+{
+height: 170px;
+width: 93%;
+margin-top: 50px;
+margin-left: 20px;
+margin-right: 20px;
+}
+.box1
+{
+    background-color:white;
+    width: 60%;
+    height: 500px;
+    
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#sk{
+    padding-top: 8px;
+    padding-left: 35px;
+    
+    margin-right: 40%;
+   
+    font-size: 18px;
+    margin-top: 10px;
+    background-color:gainsboro;
+    height: 45px;
+    width: 50% ;
+    border-left: 6px solid rgba(128, 128, 128, 0.671);
+    background-position: left;
+position: absolute;
+top: 490px;
+}
+#sk span
+{
+    color: red;
+}
+#siva
+{
+    border-left: 6px solid black ;
+    padding-left:35px;
+    position: absolute;
+    top:560px;
+    color:black;
+
+    
+}
+#my img
+{
+    width: 53%;
+    height: 310px;
+    position: absolute;
+    top:690px;
+}
+#mahe
+{
+    margin-left: 65%;
+    position: absolute;
+    top:490px;
+    height: 500px;
+    width: 25%;
+    background-color:#ffff;
+}
+#post
+{
+    padding-top: 1px;
+    padding-left:20px;
+    text-align: left;
+    padding-bottom: 5px;
+    
+    margin-right: 40%;
+   
+    font-size: 18px;
+    
+    margin-top: 10px;
+    background-color:gainsboro;
+    height: 50px;
+    width: 75% ;
+    border-left: 6px solid rgba(128, 128, 128, 0.671);
+    background-position: left;
+position: absolute;
+top: 44px;
+
+}
+.tk
+{
+    color: red;
+
+}
